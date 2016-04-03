@@ -1,1 +1,33 @@
+/***** Module 3 coding assignment *****/
 
+/** BODY styling **/
+    body { font-size: 16px; color: #fff; background-color: white; }
+
+/** HEADER styling **/
+    #header-nav { background-color: #aaa; border-radius: 0; border: 0; margin: 0px;}  
+     
+    #collapsable-nav { font-size: 1.2em; }
+ 
+    #nav-list a       { color: #951C49; text-align: center; }
+    #nav-list a:hover { background: white; }
+    #nav-list a span  { font-size: 1.8em; }
+    #nav-list li      { background-color: #cde4d3; border: 1px solid white; color: black}
+
+    .navbar-brand h1 { color: black; float: left; padding: 0; margin-top: 7px; }
+
+    .navbar-header { height: 80px; }
+    .navbar-header button.navbar-toggle { border: 1px solid black; float: right; margin-top: 23px; } 
+    .navbar-header .icon-bar { border: 1px solid black; } 
+
+    .navbar-nav { margin: 0px -15px; }
+
+/** Main content styling **/
+    #our-menu-heading h2 { color: black; }
+
+    #main-content-chicken { background-color: #bbb; width: 95%; height: 1000px; }
+
+    section     { background-color: white; padding: 5px;  }
+    section div { background-color: #aaa;  padding: 10px; height: 700px; position: relative;}
+    section a   { position: absolute; bottom: 5px; right: 5px; }
+
+    .row { margin: 0px; }
