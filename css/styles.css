@@ -24,8 +24,6 @@
 /** Main content styling **/
     #our-menu-heading h2 { color: black; }
 
-    #main-content-chicken { background-color: #bbb; width: 95%; height: 1000px; }
-
     section     { background-color: white; padding: 5px;  }
     section div { background-color: #aaa;  padding: 10px; height: 700px; position: relative;}
     section a   { position: absolute; bottom: 5px; right: 5px; }
